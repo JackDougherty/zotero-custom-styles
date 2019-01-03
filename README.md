@@ -7,7 +7,7 @@ Background: https://www.zotero.org/support/dev/citation_styles/style_editing_ste
 
 Chicago style bibliography, in descending chronological order, with abstract
 
-Steps to create: see http://jackdougherty.org/research
+Steps to create: see http://jackdougherty.org/scholarship
 - in Zotero collection > create bib, using customized CSL > to clipboard
 - paste into Markdown converter: <https://euangoddard.github.io/clipboard2markdown/>
 
